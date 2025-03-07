@@ -6,7 +6,7 @@
 
 ## Features
 
-- 🎮 Fully functional Tic Tac Toe game
+- 🎮 Fully functional Tic Tac Toe game to play
 - 📊 Score tracking for X, O, and draws
 - 📜 Game history with timestamps
 - 🏆 Highlights winning combinations
